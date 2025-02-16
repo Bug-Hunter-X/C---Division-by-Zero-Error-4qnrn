@@ -1,0 +1,1 @@
+This repository demonstrates a common runtime error in C++: division by zero. The `bug.cpp` file contains the erroneous code.  The `bugSolution.cpp` file provides a corrected version that handles potential division by zero using a conditional check.
